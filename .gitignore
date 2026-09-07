@@ -1,0 +1,9 @@
+out/
+build/
+
+.idea/
+*.iml
+*.iws
+
+.DS_Store
+Thumbs.db
